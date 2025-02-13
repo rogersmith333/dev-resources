@@ -44,7 +44,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://wave.webaim.org/&sz=128" width="16" /> | [WAVE](https://wave.webaim.org/) | WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guide... |  |
 
 **[⬆ Back to Index](#index)**
-
+ 
 ### <a name="ai">AI</a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Keywords |
 |---|---|---|---|
